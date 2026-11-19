@@ -1,4 +1,4 @@
-#include "headers/semaphore.h"
+#include "semaphore.h"
 
 int create_semaphore(int key)
 {
